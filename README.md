@@ -6,7 +6,8 @@ CPU：intel 8265u
 
 显卡 intel uhd620/MX150
 
-硬盘 Sandisk
+硬盘 Sandisk 256G sata
+
 
 内存 8G DDR4 2667MHz
 
